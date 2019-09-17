@@ -1,0 +1,3 @@
+cd src/sampler
+go build
+./sampler
