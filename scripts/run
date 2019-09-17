@@ -1,3 +1,5 @@
 cd src/sampler
 go build
+echo
+set -x
 ./sampler $@
